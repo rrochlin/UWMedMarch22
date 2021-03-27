@@ -1,0 +1,90 @@
+S-01 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.0
+% of values not changed : 100.0
+
+S-02 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.0
+% of values not changed : 100.0
+
+S-03 
+% of values from interpolation : 0.159
+% of values from 0-padding : 0.0
+% of values not changed : 99.841
+
+S-04 
+% of values from interpolation : 0.398
+% of values from 0-padding : 0.0
+% of values not changed : 99.602
+
+S-05 
+% of values from interpolation : 0.477
+% of values from 0-padding : 6.762
+% of values not changed : 92.761
+
+S-06 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.0
+% of values not changed : 100.0
+
+S-07 
+% of values from interpolation : 33.413
+% of values from 0-padding : 0.0
+% of values not changed : 66.587
+
+S-08 
+% of values from interpolation : 33.36
+% of values from 0-padding : 0.0
+% of values not changed : 66.64
+
+S-09 
+% of values from interpolation : 66.667
+% of values from 0-padding : 0.0
+% of values not changed : 33.333
+
+S-10 
+% of values from interpolation : 36.407
+% of values from 0-padding : 1.033
+% of values not changed : 62.56
+
+S-11 
+% of values from interpolation : 33.333
+% of values from 0-padding : 0.0
+% of values not changed : 66.667
+
+S-12 
+% of values from interpolation : 89.348
+% of values from 0-padding : 10.413
+% of values not changed : 0.238
+
+S-13 
+% of values from interpolation : 33.28
+% of values from 0-padding : 0.0
+% of values not changed : 66.72
+
+S-15 
+% of values from interpolation : 0.637
+% of values from 0-padding : 0.398
+% of values not changed : 98.964
+
+S-16 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.556
+% of values not changed : 99.444
+
+S-17 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.0
+% of values not changed : 100.0
+
+S-18 
+% of values from interpolation : 0.159
+% of values from 0-padding : 53.968
+% of values not changed : 45.873
+
+S-19 
+% of values from interpolation : 0.159
+% of values from 0-padding : 0.0
+% of values not changed : 99.841
+
